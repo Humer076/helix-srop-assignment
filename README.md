@@ -142,15 +142,12 @@ ChromaDB was selected because:
 ## Time Spent
 
 | Phase                | Time  |
-|---------------------|------|
-| Setup + FastAPI + DB | 3 hrs |
-| RAG + ChromaDB       | 4 hrs |
-| Agents + Routing     | 4 hrs |
-| Debugging + Testing  | 3 hrs |
-| README + Demo        | 2 hrs |
-| Total                | ~16 hrs |
-
----
+|---------------------|-------|
+| Setup + FastAPI + DB | 2 hrs |
+| RAG + ChromaDB       | 2 hrs |
+| Agents + Routing     | 1 hr  |
+| Debugging + Testing  | 1 hr  |
+| Total                | ~6 hrs |
 
 ## Extensions Completed
 
